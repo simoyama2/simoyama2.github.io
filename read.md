@@ -32,7 +32,7 @@ permalink: /read/
 
 # Logic
 
-#Physics
+# Physics
 
 # Chemistry
 
