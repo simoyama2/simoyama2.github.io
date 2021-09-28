@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "BOOKS"
-permalink: /books/
+title: "Reading List"
+permalink: /read/
 ---
 
 Exemplo de livro
