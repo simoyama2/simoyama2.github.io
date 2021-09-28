@@ -4,37 +4,37 @@ title: "Reading List"
 permalink: /read/
 ---
 
-#Computer Science
+# Computer Science
 
 
-##Markdown
+## Markdown
 [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
-##Latex
+## Latex
 
-##Python
+## Python
 
-#Complex Systems
+# Complex Systems
 
-#Philosophy
+# Philosophy
 
-#History
+# History
 
-#Law
+# Law
 
-#Economics
+# Economics
 
-#Psychology
+# Psychology
 
-#Politics
+# Politics
 
-#Math
+# Math
 
-#Logic
+# Logic
 
 #Physics
 
-#Chemistry
+# Chemistry
 
-#Sundry
+# Sundry
 
